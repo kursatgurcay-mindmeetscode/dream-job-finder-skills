@@ -1,7 +1,6 @@
 # Dream Job Finder — Claude Skills
 
 **Author:** Kursat GURCAY  
-**Adapted from:** Austin Belcak's "Dream Job Finder" prompt system
 
 CV uyarlama ve otomatik başvuru dahil, iş arama sürecini uçtan uca otomatize eden 5 Claude skill.
 
